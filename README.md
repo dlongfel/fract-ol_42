@@ -3,6 +3,8 @@
 Fract-ol is a graphic fractal exploration program, supporting deep-zooms.
 MacOs support only
 
+![main image](https://github.com/dlongfel/fract-ol_42/blob/master/images/Frame%201.png)
+
 # General
 
 Fract-ol runs it’s calculations on OpenCL, which allows for a high iteration count renders and smooth deep-zoom experience.
