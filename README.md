@@ -23,6 +23,16 @@ This project makes use of my libcl library, to make it easier to work with OpenC
 ![image 3](https://github.com/dlongfel/fract-ol_42/blob/master/images/julia/julia3.png)
 
 
+### Mandelbrot Sets
+
+![image formula](https://github.com/dlongfel/fract-ol_42/blob/master/images/mandelbrot/mand.jpg)
+
+![image 1](https://github.com/dlongfel/fract-ol_42/blob/master/images/mandelbrot/mand1.png)
+
+![image 2](https://github.com/dlongfel/fract-ol_42/blob/master/images/mandelbrot/mand2.png)
+
+![image 3](https://github.com/dlongfel/fract-ol_42/blob/master/images/mandelbrot/mand3.png)
+
 ### Mandelbar Set
 
 ![image mandelbar](https://github.com/dlongfel/fract-ol_42/blob/master/images/mandelbar/mandelbar.png)
