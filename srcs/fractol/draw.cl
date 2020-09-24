@@ -36,6 +36,7 @@ __kernel void draw(__global int* pixel, int win_size_x, int win_size_y, int max_
 	double hy = 0.5 + 0.5 * cos(0.5 * tmp + (15.6 * color / 2));
 	double hz = 0.5 + 0.5 * cos(0.5 * tmp + (5.6 * (-color)));
 	if (iteration == max_iteration)
+		pixel[gid] = 0;
 	else
 	{
 		pixel[gid] = ((unsigned int) ((double) hx * 255) << (unsigned) 16);
